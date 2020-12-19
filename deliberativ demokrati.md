@@ -16,8 +16,9 @@ När det vänder och nästa demokratiska våg kommer så finns förhoppningen at
 Rapporter från OECD (som exempelvis PISA-rapporten som är en jämförande studie av olika länders skolors studieresultat) brukar röna stor uppmärksamhet. Men en deel av deras rapporter hamnar lite i mediaskugga. Som exempelvis ****"Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave"****.
 I denna rapport analyserar OECD "representativa överläggningsprocesser för offentligt beslutsfattande" från 1986 till oktober 2019 i OECD's medlemsländer plus några till (Argentina, Brasilien, Kina och Mongoliet är inte medlemmar i OECD). 
 När OECD plottar ut antalet deliberativa demokratiska processer över tid så framstår det inte överrasknade som vågor.
-https://www.oecd-ilibrary.org//sites/339306da-en/1/3/3/index.html?itemId=/content/publication/339306da-en&_csp_=07698b7c924c319dbb92a6500bf563da&itemIGO=oecd&itemContentType=book#figure-d1e4679
+![foo *bar*][]
 
+[foo *bar*]: https://www.oecd-ilibrary.org/sites/339306da-en/images/images/Innovative-Citizen-Participation/media/image33.png "Figure ‎3.3. The deliberative wave has been building over time"
 
 ### Källor 
 - Democracy Index 2018: Me too? Political participation, protest and democracy (https://www.eiu.com/topic/democracy-index)
