@@ -36,3 +36,4 @@ När OECD plottar ut antalet deliberativa demokratiska processer över tid så f
 - Democracy Index 2018: Me too? Political participation, protest and democracy (https://www.eiu.com/topic/democracy-index)
 - OECD (2020), Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave, OECD Publishing, Paris, https://doi.org/10.1787/339306da-en. 
 - Demokratin står aldrig stilla, Sveriges riksdag https://firademokratin.riksdagen.se/studiematerial/studiematerialet/#F%C3%B6rdjupning
+- The Deliberative Poll in Zeguo Township, Wenling City, China https://cdd.stanford.edu/2005/the-first-deliberative-polling-in-china/
