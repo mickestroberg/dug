@@ -23,9 +23,9 @@ Deliberativa demokrater menar alltså att även *kvaliteten* på besluten ger be
 
 ## En deliberal våg
 
-Rapporter från OECD (som exempelvis PISA-rapporten som är en jämförande studie av olika länders skolors studieresultat) brukar röna stor uppmärksamhet. Ytterligare en av många som rapporter som OECD gör ska vi titta på nu. ****"Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave"****.
+Rapporter från OECD (som exempelvis PISA-rapporten som är en jämförande studie av olika länders skolors studieresultat) brukar röna stor uppmärksamhet. Ytterligare en intressant OECD-rapport är ****"Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave"****.
 I denna rapport analyserar OECD "representativa överläggningsprocesser för offentligt beslutsfattande" från 1986 till oktober 2019 i OECD's medlemsländer plus några till (Argentina, Brasilien, Kina och Mongoliet är inte medlemmar i OECD). 
-När OECD plottar ut antalet deliberativa demokratiska processer över tid så framstår det inte överrasknade som vågor.
+När OECD plottar ut antalet deliberativa demokratiska processer över tid så framstår det inte heller överrasknade som vågor.
 ![foo *bar*][]
 
 [foo *bar*]: https://www.oecd-ilibrary.org/sites/339306da-en/images/images/Innovative-Citizen-Participation/media/image33.png "Figure ‎3.3. The deliberative wave has been building over time"
