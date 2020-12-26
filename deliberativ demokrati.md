@@ -17,9 +17,14 @@ Vad som kommer få utvecklingen att vända vet vi inte säkert. Det vi lärt oss
 
 ## Deliberativ demokrati
 
+I demokratiska styrelsesätt delar man nästan alltid upp makten i styrning (governance) och lagstiftning (legislation). Styrningen sköts vanligtvis genom en president eller en regering och lagstiftning och kontroll av styrningen är uppgifter som tillhör ansvaret hos ett parlament. På så sätt delas makten av två lika starka krafter som balanserar varandra. Om vi ska ta vår svenska grundlag som ett bra exempel så ska ju Regeringen styra riket under lagarna samtidigt som riksdagen ska stifta lagarna och representera det svenska folket. 
+I det följande så kommer vi bara diskutera den lagstiftande och kontrollerande delen och lämna styrningen därhän. (Det finns förvisso idéer om hur man kan sköta sådant också i en helt öppen och deliberativ demokrati men det är inte relevant för diskussionen här.)
+
 För pluralisterna, som ser demokrati som ett sätt att jämka politisk makt mellan olika starka särintressen, samhällsklasser o.s.v, så är demokratisk legitimitet en funktion som uppstår i rättvisa beslutsmetoder som exempelvis majoritetsbeslut och lika rösträtt. Men deliberativa demokrater nöjer sig inte med det. De har inställningen att demokratiska instutitioner kan utformas så att de politiska frågorna kan avgöras genom att man analyserar och tar ställning till de olika svarens förtjänster. De ser processen med kunskapsinhämtning, debatter och argumentation som en sanningssökande process på samma sätt som man gör inom vetenskapen. Inte som en maktsökande process som man gör inom politiken.
 
 Deliberativa demokrater menar alltså att även *kvaliteten* på besluten ger besluten legitimitet. Det här liknar hur människor använder sig av samtal och deliberation utanför politikens värld. Om flera bilmekaniker diskuterar hur de bäst ska kunna montera isär en motor så är det oftast för att tillsammans komma fram till den lösning som de tror på mest. Inte så ofta för att någon av dem själv ska få sin förutbestämda vilja om hur den ska plockas isär igenom. Självklart finns det undantag, men det är så här de flesta vanliga medborgare kommer i kontakt med deliberation, och känner igen den, i sin vardag. 
+
+Även om de som förordar deliverativ demokrati också ser principen med majoritetsbeslut som central så finns alltså en liten förskjutning mot att ge starkare argument mer inflytande. Jämfört med den pluralistiska modellen där förmågan att spela, sluta pakter och förhandla kan ge en minoritetsåsikt stöd av en majoritet i ett parlament så kan ***"den ej förtryckande kraften i det bättre argumentet"*** *("the unforced force of the better argument")* som det formulerats av Jürgen Habermas, ge en minoritet hörsamhet för sina argument hos majoriteten om de är bättre, starkare och vädjar till logik och rättvisa.
 
 ## En deliberal våg
 
